@@ -1,17 +1,44 @@
-# flutter_application_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # flutter_image_classifier
+
+
+## Getting started
+
+### Download and Installation
+
+## Tech Stack
+
+### Flutter
+
+## Model 
+
+### Architecture
+
+### Performance
+
+### Training: tensorflow
+
+### Conversion: tf -> tflite
+
+
+
+## Flutter Dependencies
+
+### tf_lite_flutter
+
+### image
+
+### image_picker
+
+### image_picker_platform_interface
+
+### camera
+
+### path
+
+### path_provider
+
+### get_it
+
+### ffi
+
+
